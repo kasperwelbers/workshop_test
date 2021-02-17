@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-marco
-=======
-test
->>>>>>> test message
